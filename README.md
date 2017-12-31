@@ -16,3 +16,5 @@ in 2018.
 3. We need help. 
     if you are able and willing to help, let us know. OR... Just do it!
 
+## Donations
+To Donate BTC (Bitcoin): 1Fycp6DTXRbHtEeh3tJrT9mdh13UB9PUNK
