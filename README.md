@@ -1,4 +1,4 @@
-# The international Entrepreneurs Online Course - Open Source
+# The International Entrepreneurs Online Course - Open Source
 This is a mirror of the [Online Course](https://international-entrepreneurship.teachable.com) located @ https://international-entrepreneurship.teachable.com
 
 Hello and Welcome to the MCIE Online Course Repo.!
